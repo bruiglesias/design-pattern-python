@@ -17,6 +17,8 @@ You will use the sigleton if your intentions are:
 
 ## Class representation
 
+<img src="[https://github.com/bruiglesias/bruiglesias/blob/main/vis%C3%A3o%20computacional%402x%20(2).png](https://github.com/bruiglesias/design-pattern-python/blob/main/singleton/images/singleton_img.png?raw=true)" />
+
 A simple way to implement Singleton is to leave the constructor private and create a public static method that initializes the object. This way the object is created in the first call and the class will return this object already created in other calls.
 
 In Python we implement this pattern in a different way as there is no option to create private constructors.
