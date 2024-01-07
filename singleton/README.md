@@ -1,5 +1,5 @@
 
-# Singleton
+# Singleton Pattern
 
 The singleton design pattern is one of the simplest and most well-known design patterns in the programming world.
 
