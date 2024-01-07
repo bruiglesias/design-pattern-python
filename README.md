@@ -1,5 +1,5 @@
 
-# Design Pattern Python
+# Python Design Patterns
 
 This repository contains my codes developed while I studied design patterns using the python language. You will see explanatory texts and code examples for the following patterns:
 
